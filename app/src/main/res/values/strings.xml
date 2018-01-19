@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_text">This is my Text</string>
+    <string name="my_cn">这是一段中文</string>
+</resources>
